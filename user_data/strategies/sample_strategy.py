@@ -46,7 +46,7 @@ class SampleStrategy(IStrategy):
         :return: a Dataframe with all mandatory indicators for the strategies
     - Rename the class name (Do not forget to update class_name)
     - Add any methods you want to build your strategy
-    - Add any lib you need to build your strategy
+    - Add any lib you ne ed to build your strategy
 
     You must keep:
     - the lib in the section "Do not remove these libs"
